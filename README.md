@@ -1,4 +1,4 @@
-### This Python project performs a comprehensive linear regression analysis along with diagnostic checks to validate model assumptions.
+### Linear regression with analysis of assumptions
 
 #### Features
 - Loads and extracts variables from CSV data
