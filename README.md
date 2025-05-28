@@ -1,4 +1,8 @@
 ### Linear regression with analysis of assumptions
+- Run the main script using the commands python main.py
+- Upload your file's path followed by the file name (Ex: C:\Users\UserName\Downloads\multiple_linear_regression_dataset.csv)
+- Enter the column number of your dependent/target variable or Y
+- Enter a confidence interval for variance testing
 
 ##### Libraries used
 - Pandas
