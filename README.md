@@ -1,6 +1,14 @@
 ### Linear regression with analysis of assumptions
 
-#### Features
+##### Libraries used
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- SciPy
+- StatsModels
+
+##### Features
 - Loads and extracts variables from CSV data
 - Visualizes linearity between features and target
 - Tests for homoscedasticity (constant variance)
